@@ -19,7 +19,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/alizulqarnain431/youtube_downloader-
+git clone https://github.com/alizulqarnain5225/youtube_downloader-
 cd youtube_downloader
 
 
